@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Faculty of Mathematics and Physics\nCharles University\nV Holešovičkách 2\n180 00 Praha 8\nThe Czech Republic"
+  },
+  {
+    "objectID": "contact/index.html#phone",
+    "href": "contact/index.html#phone",
+    "title": "Contact",
+    "section": "Phone",
+    "text": "Phone\n+420‎ 951 552 944"
+  },
+  {
+    "objectID": "contact/index.html#email",
+    "href": "contact/index.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\nkarolina.korvasova@matfyz.cuni.cz"
+  },
+  {
     "objectID": "people/index.html",
     "href": "people/index.html",
     "title": "People",
     "section": "",
-    "text": "Karolína Korvasová\n\n\n\n\n\nPrincipal investigator\n\n\n\n\n\n\nKarolína Korvasová\n\n\n\n\n\n\n  \n\n\n\n\nKatarína Studeničová\n\n\n\n\n\nPhD student\n\n\n\n\n\n\nKatarína Studeničová\n\n\n\n\n\n\nNo matching items"
+    "text": "Karolína Korvasová\n\n\n\n\n\nPrincipal investigator\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nKatarína Studeničová\n\n\n\n\n\nPhD student\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/index.html",
@@ -19,6 +40,13 @@
     "title": "Publications",
     "section": "Preprints",
     "text": "Preprints\nKorvasová, K., Ludwig, F., Kaneko, H., Sosulina, L., Tetzlaff, T., Remy, S., and Mikulovic, S. (2021). Locomotion induced by medial septal glutamatergic neurons is linked to intrinsically generated persistent firing. bioRxiv. doi: 10.1101/2021.04.23.441122"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "We investigate how the hippocampus communicates with the cortex during memory consolidation and retrieval."
   },
   {
     "objectID": "outreach/index.html",
