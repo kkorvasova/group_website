@@ -1,0 +1,14 @@
+---
+title: "Karolína Korvasová"
+description: |
+    Principal investigator
+
+author:
+    orcid: 0000-0002-6369-7808
+    email: karolina.korvasova@matfyz.cuni.cz
+
+image: KK_Icon.jpeg
+
+---
+
+

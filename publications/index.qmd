@@ -1,0 +1,33 @@
+---
+title: "Publications"
+---
+
+## Peer-reviewed articles
+
+
+Senk J., Korvasová K., Schuecker J., Hagen E., Tetzlaff T., Diesmann M., and Helias
+M. (2020) Conditions for wave trains in spiking neural networks, Physical Review
+Research 2, [doi: 10.1103/PhysRevResearch.2.023174](https://doi.org/10.1103/PhysRevResearch.2.023174)
+
+Diekmann, O., Korvasová, K. (2016) Linearization of solution operators for
+state-dependent delay equations: A simple example, Discrete & Continuous
+Dynamical Systems - A 36, [doi: 10.3934/dcds.2016.36.137](https://doi.org/10.3934/dcds.2016.36.137)
+
+Korvasová, K., Gaffney, E. A., Maini, P. K., Ferreira, M. A., & Klika, V. (2015).
+Investigating the Turing conditions for diffusion-driven instability in the presence
+of a binding immobile substrate. Journal of Theoretical Biology, 367, [doi: 10.1016/j.jtbi.2014.11.024](https://doi.org/10.1016/j.jtbi.2014.11.024)
+
+Diekmann, O., Korvasová, K. (2013) A didactical note on the advantage of using two
+parameters in Hopf bifurcation studies, Journal of Biological Dynamics 7, [doi: 10.1080/17513758.2012.760758](https://doi.org/10.1080/17513758.2012.760758)
+
+Penington, C.J., Korvasová, K., Hughes, B.D., Landman, K.A. (2012) Collective
+motion of dimers, Physical Review E 86, [doi: 10.1103/PhysRevE.86.051909](https://doi.org/10.1103/PhysRevE.86.051909)
+
+
+## Preprints
+
+
+Korvasová, K., Ludwig, F., Kaneko, H., Sosulina, L., Tetzlaff, T., Remy, S., and
+Mikulovic, S. (2021). Locomotion induced by medial septal glutamatergic neurons is
+linked to intrinsically generated persistent firing. bioRxiv. [doi: 10.1101/2021.04.23.441122](https://doi.org/10.1101/2021.04.23.441122)
+

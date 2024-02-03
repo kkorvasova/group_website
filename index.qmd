@@ -1,0 +1,15 @@
+---
+title: "Neural ensembles and memory"
+subtitle: "Research group in computational neuroscience"
+
+about:
+  id: split-page
+  template: marquee
+  image: neurons.png
+  image-shape: rectangle
+  
+content:
+# Contact
+  
+---
+
