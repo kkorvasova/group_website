@@ -1,14 +1,34 @@
 ---
 title: "People"
-listing:
-    contents:
-        - "karolina_korvasova/*.qmd"
-        - "katarina_studenicova/*.qmd"
-        - "matej_voldrich/*.qmd"
-    type: default
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    feed: false
-title-block-bannerrR: false
 ---
+
+:::{.grid}
+
+::: {.g-col-5}
+## Karolína Korvasová
+![Karolína Korvasová](KK_Icon.jpeg)\
+***Principal investigator***\
+<a href="mailto:karolina.korvasova@matfyz.cuni.cz">karolina.korvasova@matfyz.cuni.cz</a>
+
+
+
+:::
+
+::: {.g-col-2}
+:::
+
+::: {.g-col-5}
+
+## Katarína Studeničová
+![Katarína Studeničová](Katarina_whiteboard.jpg)\
+***PhD student***\
+<a href="mailto:katarina.studenicova@matfyz.cuni.cz">katarina.studenicova@matfyz.cuni.cz</a>
+
+## Matěj Voldřich
+![Matěj Voldřich](matej_voldrich.jpg)\
+***Master student***\
+<a href="mailto:voldrim3@natur.cuni.cz">voldrim3@natur.cuni.cz</a>
+:::
+
+:::
+
