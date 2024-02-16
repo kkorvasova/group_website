@@ -1,32 +1,30 @@
 ---
 title: "People"
+
+css: styles.css
 ---
 
 :::{.grid}
 
-::: {.g-col-5}
+::: {.g-col-6}
 ## Karolína Korvasová
-![Karolína Korvasová](KK_Icon.jpeg)\
-***Principal investigator***\
+![profile](KK_Icon.jpeg)\
+**Principal investigator**\
 <a href="mailto:karolina.korvasova@matfyz.cuni.cz">karolina.korvasova@matfyz.cuni.cz</a>
 
-
-
 :::
 
-::: {.g-col-2}
-:::
 
-::: {.g-col-5}
+::: {.g-col-6}
 
 ## Katarína Studeničová
-![Katarína Studeničová](Katarina_whiteboard.jpg)\
-***PhD student***\
+![profile](Katarina_whiteboard_sq.jpg)\
+**PhD student**\
 <a href="mailto:katarina.studenicova@matfyz.cuni.cz">katarina.studenicova@matfyz.cuni.cz</a>
 
 ## Matěj Voldřich
-![Matěj Voldřich](matej_voldrich.jpg)\
-***Master student***\
+![profile](matej_voldrich.jpg)\
+**Master student**\
 <a href="mailto:voldrim3@natur.cuni.cz">voldrim3@natur.cuni.cz</a>
 :::
 
