@@ -1,0 +1,13 @@
+---
+title: "Blog"
+listing:
+    contents:
+    - kola.qmd
+    - test.qmd
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    feed: false
+title-block-bannerrR: false
+---

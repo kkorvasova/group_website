@@ -8,7 +8,7 @@ css: styles.css
 
 ::: {.g-col-6}
 ## Karolína Korvasová
-![profile](KK_Icon.jpeg)\
+![profile](KK_Aachen.jpg)\
 **Principal investigator**\
 <a href="mailto:karolina.korvasova@matfyz.cuni.cz">karolina.korvasova@matfyz.cuni.cz</a>
 
