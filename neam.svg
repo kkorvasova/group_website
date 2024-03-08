@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="43.713329mm"
+   height="50.45438mm"
+   viewBox="0 0 43.713329 50.45438"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="-40.003862"
+       originy="-49.867913"
+       spacingx="0.26458333"
+       spacingy="0.26458334"
+       empcolor="#3f3fff"
+       empopacity="0.25098039"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-40.003861,-49.867915)">
+    <g
+       id="g2"
+       inkscape:export-filename="g2.png"
+       inkscape:export-xdpi="681.531"
+       inkscape:export-ydpi="681.531">
+      <circle
+         style="fill:#d40000;stroke-width:1.62695;stroke-linecap:round;stroke-linejoin:bevel"
+         id="path1"
+         cx="45.00386"
+         cy="54.867916"
+         r="5" />
+      <circle
+         style="fill:#d40000;stroke-width:1.62695;stroke-linecap:round;stroke-linejoin:bevel"
+         id="path1-8"
+         cx="78.717194"
+         cy="54.867916"
+         r="5" />
+      <circle
+         style="fill:#d40000;stroke-width:1.62695;stroke-linecap:round;stroke-linejoin:bevel"
+         id="path1-4"
+         cx="78.717194"
+         cy="95.322289"
+         r="5" />
+      <circle
+         style="fill:#d40000;stroke-width:1.62695;stroke-linecap:round;stroke-linejoin:bevel"
+         id="path1-7"
+         cx="45.00386"
+         cy="95.322289"
+         r="5" />
+      <path
+         style="fill:none;stroke:#d40000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 44.819175,95.390543 44.5795,55.125188 79.092662,95.390543 78.852987,54.64584"
+         id="path2" />
+    </g>
+  </g>
+</svg>

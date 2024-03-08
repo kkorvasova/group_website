@@ -2,10 +2,11 @@ project:
   type: website
 
 website:
-  title: "Neural ensembles and memory"
-  #favicon: "images/favicon/apple-touch-icon.png"
+  title: "eural ensembles and memory" #
+  favicon: "neam.svg"
   navbar:
-    # logo: 'UK-logo-square-EN.png'
+    logo: 'neam.svg'
+    logo-alt: "N"
     left:
       - href: research
         text: Research
