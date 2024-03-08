@@ -11,12 +11,10 @@ website:
         text: People
       - href: publications
         text: Publications
-      - href: outreach
-        text: Outreach
       - href: contact
         text: Contact
 
 format:
   html:
     theme:
-      - litera
+      - lux

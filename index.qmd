@@ -5,7 +5,7 @@ subtitle: "Research group in computational neuroscience"
 about:
   id: split-page
   template: marquee
-  image: brain_network_logo.png
+  image: brain_center.png
   image-shape: rectangle
 
 ---

@@ -12,6 +12,11 @@ css: styles.css
 **Principal investigator**\
 <a href="mailto:karolina.korvasova@matfyz.cuni.cz">karolina.korvasova@matfyz.cuni.cz</a>
 
+## Matěj Voldřich
+![profile](matej_voldrich.jpg)\
+**Master student**\
+<a href="mailto:voldrim3@natur.cuni.cz">voldrim3@natur.cuni.cz</a>
+
 :::
 
 
@@ -22,10 +27,10 @@ css: styles.css
 **PhD student**\
 <a href="mailto:katarina.studenicova@matfyz.cuni.cz">katarina.studenicova@matfyz.cuni.cz</a>
 
-## Matěj Voldřich
-![profile](matej_voldrich.jpg)\
-**Master student**\
-<a href="mailto:voldrim3@natur.cuni.cz">voldrim3@natur.cuni.cz</a>
+## Martin Mašek
+![profile](Martin_small.jpg)\
+**Bachelor student**\
+<a href="mailto:masekm11@fjfi.cvut.cz">masekm11@fjfi.cvut.cz</a>
 :::
 
 :::
