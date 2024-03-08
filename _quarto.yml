@@ -3,7 +3,9 @@ project:
 
 website:
   title: "Neural ensembles and memory"
+  #favicon: "images/favicon/apple-touch-icon.png"
   navbar:
+    # logo: 'UK-logo-square-EN.png'
     left:
       - href: research
         text: Research
@@ -13,6 +15,8 @@ website:
         text: Publications
       - href: contact
         text: Contact
+    #right:
+    #  - text: ![](brain_center.png)
 
 format:
   html:

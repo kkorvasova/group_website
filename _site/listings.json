@@ -6,5 +6,12 @@
       "/people/katarina_studenicova/index.html",
       "/people/matej_voldrich/index.html"
     ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/test.html",
+      "/blog/kola.html"
+    ]
   }
 ]

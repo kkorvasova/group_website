@@ -1,11 +1,17 @@
 ---
-title: "Neural ensembles and memory"
-subtitle: "Research group in computational neuroscience"
+#title: "Neural ensembles and memory"
+#subtitle: "Research group in computational neuroscience"
+format: html
+css: styles.css
 
 about:
   id: split-page
   template: marquee
-  image: brain_center.png
+  image: brain_cut_2.png
   image-shape: rectangle
 
 ---
+
+# Neural ensembles and memory {.title}
+
+## Research group in computational neuroscience {.subtitle}
