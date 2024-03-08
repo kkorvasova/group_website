@@ -56,17 +56,38 @@
     "text": "Preprints\nKorvasová, K., Ludwig, F., Kaneko, H., Sosulina, L., Tetzlaff, T., Remy, S., and Mikulovic, S. (2021). Locomotion induced by medial septal glutamatergic neurons is linked to intrinsically generated persistent firing. bioRxiv. doi: 10.1101/2021.04.23.441122"
   },
   {
+    "objectID": "publications/index.html#popular-science-articles",
+    "href": "publications/index.html#popular-science-articles",
+    "title": "Publications",
+    "section": "Popular science articles",
+    "text": "Popular science articles\nBrejcha J., Korvasová K., Patrnosti mimikry (Part 1), Vesmír 102, 484, 2023/9\nBrejcha J., Korvasová K., Patrnosti mimikry (Part 2), Vesmír 102, 577, 2023/10"
+  },
+  {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "We investigate how the hippocampus communicates with the cortex during memory consolidation and retrieval."
+    "text": "Memory consolidation is a complex process that involves many brain areas.\n\nbiology of consolidation\nindexing theory\nripples\n\nWe investigate ripples as a messenger of communication between the hippocampus and the neocortex. Using mathematical methods, we aim at identifying neural ensembles that participate in memory consolidation and based on their characteristics separate distinct memory processes."
   },
   {
-    "objectID": "outreach/index.html",
-    "href": "outreach/index.html",
-    "title": "Outreach",
+    "objectID": "blog/kola.html",
+    "href": "blog/kola.html",
+    "title": "To work by bike",
     "section": "",
-    "text": "Brejcha J., Korvasová K., Patrnosti mimikry (Part 1), Vesmír 102, 484, 2023/9\nBrejcha J., Korvasová K., Patrnosti mimikry (Part 2), Vesmír 102, 577, 2023/10"
+    "text": "We decided to take part in the competition “To work by bike”."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Test\n\n\n\n\n\n\n\n\n\n\n\n\nKarolína Korvasová\n\n\n\n\n\n\n\n\nTo work by bike\n\n\n\n\n\n\n\n\n\n\n\n\nKarolína Korvasová\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/test.html",
+    "href": "blog/test.html",
+    "title": "Test",
+    "section": "",
+    "text": "Just to test."
   }
 ]

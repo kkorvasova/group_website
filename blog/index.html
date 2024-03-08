@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Neural ensembles and memory - Research</title>
+<title>Neural ensembles and memory - Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,7 +60,37 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -110,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">Blog</h1>
 </div>
 
 
@@ -125,17 +157,61 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Memory consolidation is a complex process that involves many brain areas.</p>
-<ul>
-<li><p>biology of consolidation</p></li>
-<li><p>indexing theory</p></li>
-<li><p>ripples</p></li>
-</ul>
-<p>We investigate ripples as a messenger of communication between the hippocampus and the neocortex. Using mathematical methods, we aim at identifying neural ensembles that participate in memory consolidation and based on their characteristics separate distinct memory processes.</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1709213209993" data-listing-reading-time-sort="0.015">
+<div class="body">
+<a href="../blog/test.html">
+<h3 class="no-anchor listing-title">
+Test
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Just to test.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../blog/test.html">
+<div class="listing-author">
+Karolína Korvasová
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1709213005706" data-listing-reading-time-sort="0.06">
+<div class="body">
+<a href="../blog/kola.html">
+<h3 class="no-anchor listing-title">
+To work by bike
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+We decided to take part in the competition “To work by bike”.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../blog/kola.html">
+<div class="listing-author">
+Karolína Korvasová
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
