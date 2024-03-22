@@ -2,4 +2,12 @@
 title: "Research"
 ---
 
-We investigate how the hippocampus communicates with the cortex during memory consolidation and retrieval.
+Memory consolidation is a complex process that involves many brain areas. For forming new memories, the hippocampus is a central structure able to quickly store new experiences in the form of a cognitive map with its content distributed across the neocortex. Over time, the neocortical representations are consolidated into a stable representation that can be invoked even without participation of the hippocampus.
+
+In our current research, we study the spread of memory reactivations across the neocortical network. Using mathematical methods, we aim at identifying neural ensembles that participate in memory consolidation and, based on their characteristics, separate distinct memory processes.
+
+We actively collaborate with several experimental research groups:
+
+- Eduardo Fernandez, MD, PhD, Miguel Hernández University, Elche, Spain
+- Xing Chen, University of Pittsburgh, USA
+- Sanja Mikulovic, Leibniz Center for Neurobiology, Magdeburg, Germany
