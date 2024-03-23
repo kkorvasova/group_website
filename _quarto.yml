@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  title: "eural ensembles and memory" #
-  favicon: "neam.svg"
+  title: "EAM" 
+  favicon: "LOGO_orange.png"
   navbar:
-    logo: 'neam.svg'
+    logo: 'LOGO_orange.png'
     logo-alt: 'N'
     left:
       - href: research
@@ -16,10 +16,9 @@ website:
         text: Publications
       - href: contact
         text: Contact
-    right:
-      - icon: 'UK-logo-square-EN.png'
+    #right:
 
 format:
   html:
     theme: lux
-    linkcolor: maroon
+    linkcolor: green
