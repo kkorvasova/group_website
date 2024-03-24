@@ -16,4 +16,11 @@ about:
 
 ## Research group in computational neuroscience {.subtitle}
 
-Established in 2024 thanks to the Charles University programme Primus.
+### Established in 2024 {.subsubtitle}
+### thanks to the Charles University programme Primus. {.subsubtitle}
+
+![](\logotyp_fakulty_rgb8.png "MFF CUNI")
+
+
+
+

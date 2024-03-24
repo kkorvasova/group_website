@@ -4,7 +4,7 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "We investigate how the hippocampus communicates with the cortex during memory consolidation and retrieval."
+    "text": "Memory consolidation is a complex process that involves many brain areas. For forming new memories, the hippocampus is a central structure able to quickly store new experiences in the form of a cognitive map with its content distributed across the neocortex. Over time, the neocortical representations are consolidated into a stable structures that can be invoked even without participation of the hippocampus.\nIn our current research, we study the spread of memory reactivations across the neocortical network. Using mathematical methods, we aim at identifying neural ensembles that participate in memory consolidation and, based on their characteristics, separate distinct memory processes.\nWe actively collaborate with several experimental research groups:"
   },
   {
     "objectID": "contact/index.html",
@@ -117,5 +117,26 @@
     "title": "Publications",
     "section": "Popular science articles",
     "text": "Popular science articles\nBrejcha J., Korvasová K., Patrnosti mimikry (Part 1), Vesmír 102, 484, 2023/9\nBrejcha J., Korvasová K., Patrnosti mimikry (Part 2), Vesmír 102, 577, 2023/10"
+  },
+  {
+    "objectID": "research/index.html#for-students",
+    "href": "research/index.html#for-students",
+    "title": "Research",
+    "section": "For students",
+    "text": "For students\nWe offer bachelor and master thesis topics ideally suited for students of Bioinformatics, Computer Science or Biology research programmes.\nA doctoral study in our group is performed within the Bioinformatics study programme. Students of diverse academic backgrounds are welcome!\nIf you are interested in a topic that involves analysis of experimental data, contact us by email. We will organize a personal meeting to discuss the possible options."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Neural ensembles and memory",
+    "section": "",
+    "text": "alt text for screen readers"
+  },
+  {
+    "objectID": "index.html#research-group-in-computational-neuroscience",
+    "href": "index.html#research-group-in-computational-neuroscience",
+    "title": "Neural ensembles and memory",
+    "section": "",
+    "text": "alt text for screen readers"
   }
 ]
