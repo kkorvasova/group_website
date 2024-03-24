@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-Memory consolidation is a complex process that involves many brain areas. For forming new memories, the hippocampus is a central structure able to quickly store new experiences in the form of a cognitive map with its content distributed across the neocortex. Over time, the neocortical representations are consolidated into a stable representation that can be invoked even without participation of the hippocampus.
+Memory consolidation is a complex process that involves many brain areas. For forming new memories, the hippocampus is a central structure able to quickly store new experiences in the form of a cognitive map with its content distributed across the neocortex. Over time, the neocortical representations are consolidated into a stable structures that can be invoked even without participation of the hippocampus.
 
 In our current research, we study the spread of memory reactivations across the neocortical network. Using mathematical methods, we aim at identifying neural ensembles that participate in memory consolidation and, based on their characteristics, separate distinct memory processes.
 
@@ -11,3 +11,12 @@ We actively collaborate with several experimental research groups:
 - Eduardo Fernandez, MD, PhD, Miguel Hernández University, Elche, Spain
 - Xing Chen, University of Pittsburgh, USA
 - Sanja Mikulovic, Leibniz Center for Neurobiology, Magdeburg, Germany
+
+## For students
+
+We offer bachelor and master thesis topics ideally suited for students of Bioinformatics, Computer Science or Biology research programmes.
+
+A doctoral study in our group is performed within the <a href="https://bioinformatics.cuni.cz/program/phd.html">Bioinformatics study programme</a>. Students of diverse academic backgrounds are welcome!
+
+
+If you are interested in a topic that involves analysis of experimental data, <a href="mailto:karolina.korvasova@matfyz.cuni.cz">contact us by email</a>. We will organize a personal meeting to discuss the possible options.
