@@ -1,10 +1,9 @@
 [
   {
-    "listing": "/people/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/people/karolina_korvasova/index.html",
-      "/people/katarina_studenicova/index.html",
-      "/people/matej_voldrich/index.html"
+      "/blog/test.html",
+      "/blog/kola.html"
     ]
   }
 ]
