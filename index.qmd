@@ -19,7 +19,7 @@ about:
 ### Established in 2024 {.subsubtitle}
 ### thanks to the Charles University programme Primus. {.subsubtitle}
 
-![](\logotyp_fakulty_rgb8.png "MFF CUNI")
+![](logotyp_fakulty_rgb8.png "MFF CUNI")
 
 
 
