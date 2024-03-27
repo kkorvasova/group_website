@@ -4,34 +4,114 @@ title: "People"
 css: styles.css
 ---
 
-:::{.grid}
+::: {.grid}
 
-::: {.g-col-6}
-## Karolína Korvasová
+::: {.g-col-3}
+
 ![profile](KK_Aachen.jpg)\
+
+:::
+
+::: {.g-col-8}
+
+### Karolína Korvasová
 **Principal investigator**\
 <a href="mailto:karolina.korvasova@matfyz.cuni.cz">karolina.korvasova@matfyz.cuni.cz</a>
 
-## Matěj Voldřich
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-3}
+
+![profile](Katarina_whiteboard_sq.jpg)\
+
+:::
+
+::: {.g-col-8}
+
+### Katarína Studeničová
+**PhD student**\
+<a href="mailto:katarina.studenicova@matfyz.cuni.cz">katarina.studenicova@matfyz.cuni.cz</a>
+
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-3}
+
 ![profile](matej_voldrich.jpg)\
+
+:::
+
+::: {.g-col-8}
+
+### Matěj Voldřich
 **Master student**\
 <a href="mailto:voldrim3@natur.cuni.cz">voldrim3@natur.cuni.cz</a>
 
 :::
 
+:::
 
-::: {.g-col-6}
 
-## Katarína Studeničová
-![profile](Katarina_whiteboard_sq.jpg)\
-**PhD student**\
-<a href="mailto:katarina.studenicova@matfyz.cuni.cz">katarina.studenicova@matfyz.cuni.cz</a>
+::: {.grid}
 
-## Martin Mašek
+::: {.g-col-3}
+
+![profile](Natalia.jpeg)\
+:::
+
+::: {.g-col-8}
+
+### Natália Komorníková
+**Master student**\
+<a href="mailto:natalia.komornikova@natur.cuni.cz">natalia.komornikova@natur.cuni.cz</a>
+
+
+:::
+
+:::
+
+
+::: {.grid}
+
+::: {.g-col-3}
+
 ![profile](Martin_small.jpg)\
+
+:::
+
+::: {.g-col-8}
+
+### Martin Mašek
 **Bachelor student**\
 <a href="mailto:masekm11@fjfi.cvut.cz">masekm11@fjfi.cvut.cz</a>
-:::
 
 :::
 
+:::
+
+## Soon will join us
+
+::: {.grid}
+
+::: {.g-col-3}
+
+![profile](Aitor.png)\
+:::
+
+::: {.g-col-8}
+
+### Aitor Morales-Gregorio
+**postdoc starting in September 2024**\
+
+:::
+
+:::
