@@ -16,7 +16,9 @@ css: styles.css
 
 ### Karolína Korvasová
 **Principal investigator**\
-<a href="mailto:karolina.korvasova@matfyz.cuni.cz">karolina.korvasova@matfyz.cuni.cz</a>
+
+[![icon](at_logo.png)](mailto:karolina.korvasova@matfyz.cuni.cz) 
+[![icon](github_logo.png)](https://github.com/kkorvasova)
 
 :::
 
@@ -35,7 +37,9 @@ css: styles.css
 
 ### Katarína Studeničová
 **PhD student**\
-<a href="mailto:katarina.studenicova@matfyz.cuni.cz">katarina.studenicova@matfyz.cuni.cz</a>
+
+[![icon](at_logo.png)](mailto:katarina.studenicova@matfyz.cuni.cz) 
+[![icon](github_logo.png)](https://github.com/studekat)
 
 :::
 
@@ -54,7 +58,8 @@ css: styles.css
 
 ### Matěj Voldřich
 **Master student**\
-<a href="mailto:voldrim3@natur.cuni.cz">voldrim3@natur.cuni.cz</a>
+
+[![icon](at_logo.png)](mailto:voldrim3@natur.cuni.cz)\ 
 
 :::
 
@@ -72,7 +77,8 @@ css: styles.css
 
 ### Natália Komorníková
 **Master student**\
-<a href="mailto:natalia.komornikova@natur.cuni.cz">natalia.komornikova@natur.cuni.cz</a>
+
+[![icon](at_logo.png)](mailto:natalia.komornikova@natur.cuni.cz)\ 
 
 
 :::
@@ -92,7 +98,8 @@ css: styles.css
 
 ### Martin Mašek
 **Bachelor student**\
-<a href="mailto:masekm11@fjfi.cvut.cz">masekm11@fjfi.cvut.cz</a>
+
+[![icon](at_logo.png)](mailto:masekm11@fjfi.cvut.cz)\ 
 
 :::
 
