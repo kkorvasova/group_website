@@ -1,7 +1,28 @@
 [
   {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Memory consolidation is a complex process that involves many brain areas. For forming new memories, the hippocampus is a central structure able to quickly store new experiences in the form of a cognitive map with its content distributed across the neocortex. Over time, the neocortical representations are consolidated into a stable structures that can be invoked even without participation of the hippocampus.\nIn our current research, we study the spread of memory reactivations across the neocortical network. Using mathematical methods, we aim at identifying neural ensembles that participate in memory consolidation and, based on their characteristics, separate distinct memory processes.\nWe actively collaborate with several experimental research groups:"
+  },
+  {
+    "objectID": "research/index.html#for-students",
+    "href": "research/index.html#for-students",
+    "title": "Research",
+    "section": "For students",
+    "text": "For students\nWe offer bachelor and master thesis topics ideally suited for students of Bioinformatics, Computer Science or Biology research programmes.\nA doctoral study in our group is performed within the Bioinformatics study programme. Students of diverse academic backgrounds are welcome!\nIf you are interested in a topic that involves analysis of experimental data, contact us by email. We will organize a personal meeting to discuss the possible options."
+  },
+  {
     "objectID": "contact/index.html",
     "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Faculty of Mathematics and Physics\nCharles University\nV Holešovičkách 2\n180 00 Praha 8\nThe Czech Republic"
+  },
+  {
+    "objectID": "contact/index.html#address",
+    "href": "contact/index.html#address",
     "title": "Contact",
     "section": "",
     "text": "Faculty of Mathematics and Physics\nCharles University\nV Holešovičkách 2\n180 00 Praha 8\nThe Czech Republic"
@@ -21,11 +42,32 @@
     "text": "Email\nkarolina.korvasova@matfyz.cuni.cz"
   },
   {
+    "objectID": "blog/kola.html",
+    "href": "blog/kola.html",
+    "title": "To work by bike",
+    "section": "",
+    "text": "We decided to take part in the competition “To work by bike”."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Test\n\n\n\n\n\n\n\n\n\n\n\nKarolína Korvasová\n\n\n\n\n\n\n\n\n\n\n\n\nTo work by bike\n\n\n\n\n\n\n\n\n\n\n\nKarolína Korvasová\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/test.html",
+    "href": "blog/test.html",
+    "title": "Test",
+    "section": "",
+    "text": "Just to test."
+  },
+  {
     "objectID": "people/index.html",
     "href": "people/index.html",
     "title": "People",
     "section": "",
-    "text": "Principal investigator\nkarolina.korvasova@matfyz.cuni.cz"
+    "text": "Principal investigator"
   },
   {
     "objectID": "people/index.html#soon-will-join-us",
@@ -35,22 +77,15 @@
     "text": "Soon will join us\n\n\n\n\n\n\nAitor Morales-Gregorio\npostdoc starting in September 2024"
   },
   {
-    "objectID": "people/test/team.html",
-    "href": "people/test/team.html",
-    "title": "People",
-    "section": "",
-    "text": "- Principal investigator\n- Email: karolina.korvasova@matfyz.cuni.cz"
-  },
-  {
-    "objectID": "people/test/team.html#katarína-studeničová",
-    "href": "people/test/team.html#katarína-studeničová",
-    "title": "People",
-    "section": "Katarína Studeničová",
-    "text": "Katarína Studeničová\n\n- PhD student\n- Email: katarina.studenicova@matfyz.cuni.cz"
-  },
-  {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Senk J., Korvasová K., Schuecker J., Hagen E., Tetzlaff T., Diesmann M., and Helias M. (2020) Conditions for wave trains in spiking neural networks, Physical Review Research 2, doi: 10.1103/PhysRevResearch.2.023174\nDiekmann, O., Korvasová, K. (2016) Linearization of solution operators for state-dependent delay equations: A simple example, Discrete & Continuous Dynamical Systems - A 36, doi: 10.3934/dcds.2016.36.137\nKorvasová, K., Gaffney, E. A., Maini, P. K., Ferreira, M. A., & Klika, V. (2015). Investigating the Turing conditions for diffusion-driven instability in the presence of a binding immobile substrate. Journal of Theoretical Biology, 367, doi: 10.1016/j.jtbi.2014.11.024\nDiekmann, O., Korvasová, K. (2013) A didactical note on the advantage of using two parameters in Hopf bifurcation studies, Journal of Biological Dynamics 7, doi: 10.1080/17513758.2012.760758\nPenington, C.J., Korvasová, K., Hughes, B.D., Landman, K.A. (2012) Collective motion of dimers, Physical Review E 86, doi: 10.1103/PhysRevE.86.051909"
+  },
+  {
+    "objectID": "publications/index.html#peer-reviewed-articles",
+    "href": "publications/index.html#peer-reviewed-articles",
     "title": "Publications",
     "section": "",
     "text": "Senk J., Korvasová K., Schuecker J., Hagen E., Tetzlaff T., Diesmann M., and Helias M. (2020) Conditions for wave trains in spiking neural networks, Physical Review Research 2, doi: 10.1103/PhysRevResearch.2.023174\nDiekmann, O., Korvasová, K. (2016) Linearization of solution operators for state-dependent delay equations: A simple example, Discrete & Continuous Dynamical Systems - A 36, doi: 10.3934/dcds.2016.36.137\nKorvasová, K., Gaffney, E. A., Maini, P. K., Ferreira, M. A., & Klika, V. (2015). Investigating the Turing conditions for diffusion-driven instability in the presence of a binding immobile substrate. Journal of Theoretical Biology, 367, doi: 10.1016/j.jtbi.2014.11.024\nDiekmann, O., Korvasová, K. (2013) A didactical note on the advantage of using two parameters in Hopf bifurcation studies, Journal of Biological Dynamics 7, doi: 10.1080/17513758.2012.760758\nPenington, C.J., Korvasová, K., Hughes, B.D., Landman, K.A. (2012) Collective motion of dimers, Physical Review E 86, doi: 10.1103/PhysRevE.86.051909"
@@ -68,40 +103,5 @@
     "title": "Publications",
     "section": "Popular science articles",
     "text": "Popular science articles\nBrejcha J., Korvasová K., Patrnosti mimikry (Part 1), Vesmír 102, 484, 2023/9\nBrejcha J., Korvasová K., Patrnosti mimikry (Part 2), Vesmír 102, 577, 2023/10"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "Memory consolidation is a complex process that involves many brain areas. For forming new memories, the hippocampus is a central structure able to quickly store new experiences in the form of a cognitive map with its content distributed across the neocortex. Over time, the neocortical representations are consolidated into a stable structures that can be invoked even without participation of the hippocampus.\nIn our current research, we study the spread of memory reactivations across the neocortical network. Using mathematical methods, we aim at identifying neural ensembles that participate in memory consolidation and, based on their characteristics, separate distinct memory processes.\nWe actively collaborate with several experimental research groups:"
-  },
-  {
-    "objectID": "research/index.html#for-students",
-    "href": "research/index.html#for-students",
-    "title": "Research",
-    "section": "For students",
-    "text": "For students\nWe offer bachelor and master thesis topics ideally suited for students of Bioinformatics, Computer Science or Biology research programmes.\nA doctoral study in our group is performed within the Bioinformatics study programme. Students of diverse academic backgrounds are welcome!\nIf you are interested in a topic that involves analysis of experimental data, contact us by email. We will organize a personal meeting to discuss the possible options."
-  },
-  {
-    "objectID": "blog/kola.html",
-    "href": "blog/kola.html",
-    "title": "To work by bike",
-    "section": "",
-    "text": "We decided to take part in the competition “To work by bike”."
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Test\n\n\n\n\n\n\n\n\n\n\n\n\nKarolína Korvasová\n\n\n\n\n\n\n\n\nTo work by bike\n\n\n\n\n\n\n\n\n\n\n\n\nKarolína Korvasová\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/test.html",
-    "href": "blog/test.html",
-    "title": "Test",
-    "section": "",
-    "text": "Just to test."
   }
 ]

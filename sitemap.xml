@@ -1,55 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kkorvasova.github.io/group_website/new_markdown.html</loc>
-    <lastmod>2024-03-27T10:02:08.704Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkorvasova.github.io/group_website/contact/index.html</loc>
-    <lastmod>2024-03-27T10:02:08.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkorvasova.github.io/group_website/people/katarina_studenicova/index.html</loc>
-    <lastmod>2024-03-27T10:02:09.212Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkorvasova.github.io/group_website/people/index.html</loc>
-    <lastmod>2024-03-27T10:02:09.488Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkorvasova.github.io/group_website/people/test/team.html</loc>
-    <lastmod>2024-03-27T10:02:09.736Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kkorvasova.github.io/group_website/people/karolina_korvasova/index.html</loc>
-    <lastmod>2024-03-27T10:02:09.992Z</lastmod>
+    <loc>https://kkorvasova.github.io/group_website/research/index.html</loc>
+    <lastmod>2024-03-24T14:30:24.653Z</lastmod>
   </url>
   <url>
     <loc>https://kkorvasova.github.io/group_website/people/matej_voldrich/index.html</loc>
-    <lastmod>2024-03-27T10:02:10.256Z</lastmod>
+    <lastmod>2024-03-08T16:11:32.194Z</lastmod>
   </url>
   <url>
-    <loc>https://kkorvasova.github.io/group_website/publications/index.html</loc>
-    <lastmod>2024-03-27T10:02:10.536Z</lastmod>
+    <loc>https://kkorvasova.github.io/group_website/people/karolina_korvasova/index.html</loc>
+    <lastmod>2024-03-08T16:11:32.163Z</lastmod>
   </url>
   <url>
-    <loc>https://kkorvasova.github.io/group_website/index.html</loc>
-    <lastmod>2024-03-27T10:02:10.824Z</lastmod>
+    <loc>https://kkorvasova.github.io/group_website/new_markdown.html</loc>
+    <lastmod>2024-03-09T19:10:09.072Z</lastmod>
   </url>
   <url>
-    <loc>https://kkorvasova.github.io/group_website/research/index.html</loc>
-    <lastmod>2024-03-27T10:02:11.112Z</lastmod>
+    <loc>https://kkorvasova.github.io/group_website/contact/index.html</loc>
+    <lastmod>2024-03-08T16:11:32.072Z</lastmod>
   </url>
   <url>
     <loc>https://kkorvasova.github.io/group_website/blog/kola.html</loc>
-    <lastmod>2024-03-27T10:02:11.408Z</lastmod>
+    <lastmod>2024-03-08T16:11:31.915Z</lastmod>
   </url>
   <url>
     <loc>https://kkorvasova.github.io/group_website/blog/index.html</loc>
-    <lastmod>2024-03-27T10:02:11.740Z</lastmod>
+    <lastmod>2024-03-08T16:11:31.912Z</lastmod>
   </url>
   <url>
     <loc>https://kkorvasova.github.io/group_website/blog/test.html</loc>
-    <lastmod>2024-03-27T10:02:12.004Z</lastmod>
+    <lastmod>2024-03-08T16:11:31.918Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkorvasova.github.io/group_website/index.html</loc>
+    <lastmod>2024-03-27T10:09:01.457Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkorvasova.github.io/group_website/people/index.html</loc>
+    <lastmod>2024-03-27T10:35:33.002Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkorvasova.github.io/group_website/people/katarina_studenicova/index.html</loc>
+    <lastmod>2024-03-08T16:11:32.186Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kkorvasova.github.io/group_website/publications/index.html</loc>
+    <lastmod>2024-03-08T16:11:32.204Z</lastmod>
   </url>
 </urlset>
