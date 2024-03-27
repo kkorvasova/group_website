@@ -19,6 +19,7 @@ css: styles.css
 
 [![icon](at_logo.png)](mailto:karolina.korvasova@matfyz.cuni.cz) 
 [![icon](github_logo.png)](https://github.com/kkorvasova)
+[![icon](scholar_logo.png)](https://scholar.google.com/citations?hl=en&user=UPz8zo0AAAAJ)
 
 :::
 
